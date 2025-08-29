@@ -37,16 +37,20 @@ Table Booking → Sheets: Price Range vs Table and Online
 
 📂 Repository Structure
 Cognifyz_DataAnalysis_Internship
-│── Tamilarasan_DataAnalysis_Tasks.xlsx   # All 10 Excel tasks
-│── Geographic Analysis.pbix                    # Power BI dashboard
-│── README.md                              # Documentation
-│
-├── Screenshots/                           # Visual outputs
-│   ├── task1_top_cuisines.png
-│   ├── task2_city_analysis.png
-│   ├── task3_price_range.png
-│   ├── task11_powerbi_dashboard.png
-│   └── ...
+│── Tamilarasan_DataAnalysis_Tasks.xlsx # All 10 Excel tasks
+│── Geographic Analysis.pbix # Power BI Dashboard (Task 11)
+│── README.md # Documentation
+│── Top Cuisines.png # Screenshot - Task 1
+│── City Analysis.png # Screenshot - Task 2
+│── Price Range Distribution.png # Screenshot - Task 3
+│── Online Delivery.png # Screenshot - Task 4
+│── Restaurant Ratings.png # Screenshot - Task 5
+│── Cuisine Combination.png # Screenshot - Task 6
+│── Geographic Analysis.png # Screenshot - Task 7
+│── Restaurant Chain Analysis.png # Screenshot - Task 8
+│── Restaurant Reviews.png # Screenshot - Task 9
+│── Votes Analysis Dashboard.png # Screenshot - Task 10
+│── Price Range vs Table and Online.png # Screenshot - Task 10
 
 ## 📸 Sample Visuals  
 
