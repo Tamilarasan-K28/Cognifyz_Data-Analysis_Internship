@@ -13,35 +13,24 @@ The project focuses on analyzing restaurant data using Excel-based data analysis
 The internship tasks were divided into multiple levels (1, 2, and 3), covering a wide range of data analysis concepts, such as data visualization, statistical analysis, correlation, and business insights.
 
 📑 Task List & Mapping
-Level 1
-
+Level 1:
 Task 1: Top Cuisines → Sheet: Top Cuisines
-
 Task 2: City Analysis → Sheet: City Analysis
-
 Task 3: Price Range Distribution → Sheet: Price Range Distribution
-
 Task 4: Online Delivery → Sheet: Online Delivery
 
-Level 2
+Level 2:
+Task 1: Restaurant Ratings → Sheet: Restaurant Ratings
+Task 2: Cuisine Combination → Sheet: Cuisine Combination
+Task 3: Geographic Analysis → File: Geographic Analysis.pbix
+Task 4: Restaurant Chains → Sheet: Restaurant Chain Analysis
 
-Task 5: Restaurant Ratings → Sheet: Restaurant Ratings
+Level 3:
+Task 1: Restaurant Reviews → Sheet: Restaurant Reviews
+Task 2: Votes Analysis → Sheets: Votes Analysis Dashboard
+Task 3: Price Range vs. Online Delivery and
+Table Booking → Sheets: Price Range vs Table and Online
 
-Task 6: Cuisine Combination → Sheet: Cuisine Combination
-
-Task 7: Geographic Analysis → Sheet: Dataset_Cognifyz
-
-Task 8: Restaurant Chains → Sheet: Restaurant Chain Analysis (includes supporting sheets)
-
-Level 3
-
-Task 9: Restaurant Reviews → Sheet: Restaurant Reviews
-
-Task 10: Votes & Correlation Analysis → Sheets: Votes Analysis, Votes Analysis Dashboard, Correlation, Price Range vs Table and Online
-
-Additional Work
-
-Task 11: Power BI Dashboard → File: Task11_PowerBI.pbix
 
 📂 Repository Structure
 Cognifyz_DataAnalysis_Internship
@@ -49,7 +38,7 @@ Cognifyz_DataAnalysis_Internship
 │── Geographic Analysis.pbix                    # Power BI dashboard
 │── README.md                              # Documentation
 │
-├── Screenshots/                           # (Optional) Visual outputs
+├── Screenshots/                           # Visual outputs
 │   ├── task1_top_cuisines.png
 │   ├── task2_city_analysis.png
 │   ├── task3_price_range.png
