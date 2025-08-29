@@ -36,78 +36,84 @@ Table Booking → Sheets: Price Range vs Table and Online
 
 
 📂 Repository Structure
+
 Cognifyz_DataAnalysis_Internship
 
-│── Tamilarasan_DataAnalysis_Tasks.xlsx # All 10 Excel tasks
+│── Tamilarasan_DataAnalysis_Tasks.xlsx
 
-│── Geographic Analysis.pbix # Power BI Dashboard (Task 11)
+│── Geographic Analysis.pbix
 
-│── README.md # Documentation
+│── README.md
 
-│── Top Cuisines.png # Screenshot - Task 1
+│
 
-│── City Analysis.png # Screenshot - Task 2
+├── Screenshots/
 
-│── Price Range Distribution.png # Screenshot - Task 3
+│   ├── Top Cuisines.png
 
-│── Online Delivery.png # Screenshot - Task 4
+│   ├── City Analysis.png
 
-│── Restaurant Ratings.png # Screenshot - Task 5
+│   ├── Price Range Distribution.png
 
-│── Cuisine Combination.png # Screenshot - Task 6
+│   ├── Online Delivery.png
 
-│── Geographic Analysis.png # Screenshot - Task 7
+│   ├── Restaurant Ratings.png
 
-│── Restaurant Chain Analysis.png # Screenshot - Task 8
+│   ├── Cuisine Combination.png
 
-│── Restaurant Reviews.png # Screenshot - Task 9
+│   ├── Geographic Analysis.png
 
-│── Votes Analysis Dashboard.png # Screenshot - Task 10
+│   ├── Restaurant Chain Analysis.png
 
-│── Price Range vs Table and Online.png # Screenshot - Task 11
+│   ├── Restaurant Reviews.png
+
+│   ├── Votes Analysis Dashboard.png
+
+│   ├── Price Range vs Table and Online.png
+
 
 ## 📸 Sample Visuals  
 
 ### Level 1  
 **Task 1: Top Cuisines**  
-![Top Cuisines](Top%20Cuisines.png)  
+![Top Cuisines](Screenshots/Top%20Cuisines.png)  
 
 **Task 2: City Analysis**  
-![City Analysis](City%20Analysis.png)  
+![City Analysis](Screenshots/City%20Analysis.png)  
 
 **Task 3: Price Range Distribution**  
-![Price Range Distribution](Price%20Range%20Distribution.png)  
+![Price Range Distribution](Screenshots/Price%20Range%20Distribution.png)  
 
 **Task 4: Online Delivery**  
-![Online Delivery](Online%20Delivery.png)  
+![Online Delivery](Screenshots/Online%20Delivery.png)  
 
 ---
 
 ### Level 2  
 **Task 5: Restaurant Ratings**  
-![Restaurant Ratings](Restaurant%20Ratings.png)  
+![Restaurant Ratings](Screenshots/Restaurant%20Ratings.png)  
 
 **Task 6: Cuisine Combination**  
-![Cuisine Combination](Cuisine%20Combination.png)  
+![Cuisine Combination](Screenshots/Cuisine%20Combination.png)  
 
 **Task 7: Geographic Analysis**  
-![Dataset_Cognifyz](Geographic%20Analysis.png)  
+![Dataset_Cognifyz](Screenshots/Geographic%20Analysis.png)  
 
 **Task 8: Restaurant Chains**  
-![Restaurant Chain Analysis](Restaurant%20Chain%20Analysis.png)  
+![Restaurant Chain Analysis](Screenshots/Restaurant%20Chain%20Analysis.png)  
 
 ---
 
 ### Level 3  
 **Task 9: Restaurant Reviews**  
-![Restaurant Reviews](Restaurant%20Reviews.png)  
+![Restaurant Reviews](Screenshots/Restaurant%20Reviews.png)  
 
 **Task 10: Votes & Correlation Analysis**  
-![Votes Analysis](Votes%20Analysis%20Dashboard.png) 
+![Votes Analysis](Screenshots/Votes%20Analysis%20Dashboard.png) 
 
 **Task 11: Price Range vs Online Delivery and
 Table Booking**  
-![Price Range vs Table and Online](Price%20Range%20vs%20Table%20and%20Online.png)
+![Price Range vs Table and Online](Screenshots/Price%20Range%20vs%20Table%20and%20Online.png)
  
 
 ---
