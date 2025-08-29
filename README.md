@@ -1,8 +1,11 @@
 📊 Cognifyz Technologies – Data Analysis Internship
 
 Internship Period: 10th Aug 2025 – 10th Sep 2025
+
 Intern: Tamilarasan K
+
 Role: Data Analysis Intern
+
 Mode: Remote
 
 🚀 Overview
