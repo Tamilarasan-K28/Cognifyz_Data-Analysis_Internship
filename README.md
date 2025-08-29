@@ -82,10 +82,10 @@ Cognifyz_DataAnalysis_Internship
 
 ### Level 3  
 **Task 9: Restaurant Reviews**  
-![Restaurant Reviews](Screenshots/Restaurant%20Reviews.png)  
+![Restaurant Reviews](Restaurant%20Reviews.png)  
 
 **Task 10: Votes & Correlation Analysis**  
-![Votes Analysis](Screenshots/Votes%20Analysis%20Dashboard.png) 
+![Votes Analysis](Votes%20Analysis%20Dashboard.png) 
 
 **Task 11: Price Range vs Online Delivery and
 Table Booking**  
