@@ -48,9 +48,51 @@ Cognifyz_DataAnalysis_Internship
 │   ├── task11_powerbi_dashboard.png
 │   └── ...
 
-📸 Sample Visuals
+## 📸 Sample Visuals  
 
+### Level 1  
+**Task 1: Top Cuisines**  
+![Top Cuisines](Top%20Cuisines.png)  
 
+**Task 2: City Analysis**  
+![City Analysis](City%20Analysis.png)  
+
+**Task 3: Price Range Distribution**  
+![Price Range Distribution](Price%20Range%20Distribution.png)  
+
+**Task 4: Online Delivery**  
+![Online Delivery](Online%20Delivery.png)  
+
+---
+
+### Level 2  
+**Task 5: Restaurant Ratings**  
+![Restaurant Ratings](Restaurant%20Ratings.png)  
+
+**Task 6: Cuisine Combination**  
+![Cuisine Combination](Cuisine%20Combination.png)  
+
+**Task 7: Geographic Analysis**  
+![Dataset_Cognifyz](Geographic%20Analysis.png)  
+
+**Task 8: Restaurant Chains**  
+![Restaurant Chain Analysis](Restaurant%20Chain%20Analysis.png)  
+
+---
+
+### Level 3  
+**Task 9: Restaurant Reviews**  
+![Restaurant Reviews](Screenshots/Restaurant%20Reviews.png)  
+
+**Task 10: Votes & Correlation Analysis**  
+![Votes Analysis](Screenshots/Votes%20Analysis%20Dashboard.png) 
+
+**Task 11: Price Range vs Online Delivery and
+Table Booking**  
+![Price Range vs Table and Online](Price%20Range%20vs%20Table%20and%20Online.png)
+ 
+
+---
 
 🛠️ Tools & Technologies Used
 
